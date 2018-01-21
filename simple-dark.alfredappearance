@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#939A9DFF",
+        "font" : "System Light",
+        "color" : "#777B7FE5"
+      },
+      "shortcut" : {
+        "size" : 13,
+        "colorSelected" : "#BAC6CBFF",
+        "font" : "System Light",
+        "color" : "#7F7F7EFF"
+      },
+      "backgroundSelected" : "#54545442",
+      "text" : {
+        "size" : 24,
+        "colorSelected" : "#CDCDCDFF",
+        "font" : "System Light",
+        "color" : "#8F9399FF"
+      },
+      "iconPaddingHorizontal" : 5,
+      "paddingVertical" : 8,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 2,
+      "background" : "#00000000",
+      "spacing" : 10,
+      "text" : {
+        "size" : 36,
+        "colorSelected" : "#576266FF",
+        "font" : "System Light",
+        "color" : "#D8D8D8FF"
+      },
+      "backgroundSelected" : "#CACACAFF"
+    },
+    "window" : {
+      "color" : "#0D0D0DBF",
+      "paddingHorizontal" : 10,
+      "width" : 620,
+      "borderPadding" : 10,
+      "borderColor" : "#FEFFFF00",
+      "blur" : 20,
+      "roundness" : 3,
+      "paddingVertical" : 10
+    },
+    "credit" : "Christoph Uschkrat",
+    "separator" : {
+      "color" : "#00000005",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#616161FF",
+      "thickness" : 2
+    },
+    "name" : "Simple Dark"
+  }
+}
